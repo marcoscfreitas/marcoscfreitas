@@ -1,16 +1,47 @@
-### Hi there 👋
+### Olá, bem-vindo ao meu Github! 👋
+<div>
 
-<!--
-**marviii/marviii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+______________________________________________________________________________________
+  
+</div>
 
-Here are some ideas to get you started:
+- Me chamo Marcos, tenho 22 anos e sou um desenvolvedor apaixonado por tecnologia, graduando em Sistemas de Informação na Universidade Federal do Rio Grande (FURG) e formado em Técnico em Informática para Internet pelo Instituto Federal de Rio Grande. Minha jornada na área da tecnologia começou durante meu curso técnico, onde desenvolvi um profundo interesse por programação e desenvolvimento web. 💻🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente, estou focado em aprimorar minhas habilidades em diversas linguagens de programação, incluindo JavaScript, Python e PHP, bem como em frameworks e tecnologias populares como React.js, Node.js e Django. Tenho um interesse particular em desenvolvimento web, sistemas distribuídos e inteligência artificial. 🚀
+
+<div>
+
+______________________________________________________________________________________
+  
+</div>
+
+<a href="https://github.com/marviii/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marviii&theme=radical&rank_icon=github" />
+</a>
+<a href="https://github.com/marviii/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marviii&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+<div>
+
+______________________________________________________________________________________
+  
+</div>
+
+### Linguagens e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,nodejs,mysql,laravel,git)](https://skillicons.dev)
+
+<div>
+
+______________________________________________________________________________________
+  
+</div>
+
+### Contato
+
+<div> 
+  <a href="https://www.facebook.com/mavizss/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"</a>
+  <a href="https://instagram.com/marv01_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mcopellofreitas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marviii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
