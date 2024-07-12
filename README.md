@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 - Me chamo Marcos, tenho 22 anos e sou um desenvolvedor apaixonado por tecnologia, graduando em Sistemas de Informação na Universidade Federal do Rio Grande (FURG) e formado em Técnico em Informática para Internet pelo Instituto Federal de Rio Grande. Minha jornada na área da tecnologia começou durante meu curso técnico, onde desenvolvi um profundo interesse por programação e desenvolvimento web. 💻🌐
 
-- Atualmente, estou focado em aprimorar minhas habilidades em diversas linguagens de programação, incluindo JavaScript, Python e PHP, bem como em frameworks e tecnologias populares como React.js, Node.js e Django. Tenho um interesse particular em desenvolvimento web, sistemas distribuídos e inteligência artificial. 🚀
+- Atualmente, estou focado em aprimorar minhas habilidades em diversas linguagens de programação, incluindo JavaScript, Python e PHP, e frameworks populares como React, Flask e Django. Tenho um interesse particular em desenvolvimento web. 🚀
 
 <div>
 
