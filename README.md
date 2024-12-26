@@ -5,9 +5,10 @@ ________________________________________________________________________________
   
 </div>
 
-- Me chamo Marcos, tenho 22 anos e sou um desenvolvedor apaixonado por tecnologia, graduando em Sistemas de Informação na Universidade Federal do Rio Grande (FURG) e formado em Técnico em Informática para Internet pelo Instituto Federal de Rio Grande. Minha jornada na área da tecnologia começou durante meu curso técnico, onde desenvolvi um profundo interesse por programação e desenvolvimento web. 💻🌐
+- Me chamo Marcos Vinicius, tenho 23 anos, sou graduando em Sistemas de Informação na Universidade Federal do Rio Grande (FURG) e formado em Técnico em Informática para Internet pelo Instituto Federal de Rio Grande. 💻🌐
 
-- Atualmente, estou focado em aprimorar minhas habilidades em diversas linguagens de programação, incluindo JavaScript, Python e PHP, e frameworks populares como React, Flask e Django. Tenho um interesse particular em desenvolvimento web. 🚀
+
+- Possuo experiência em desenvolvimento web, em linguagens como JavaScript, PHP e Python, além de HTML e CSS. Atualmente, estou aprofundando meus conhecimentos nas áreas de Machine Learning, IA e Ciência de Dados, áreas que despertam grande interesse e nas quais busco contribuir. 🚀 🚀
 
 <div>
 
