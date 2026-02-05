@@ -5,10 +5,10 @@ ________________________________________________________________________________
   
 </div>
 
-- Me chamo Marcos Vinicius, tenho 23 anos, sou graduando em Sistemas de Informação na Universidade Federal do Rio Grande (FURG) e formado em Técnico em Informática para Internet pelo Instituto Federal de Rio Grande. 💻🌐
+- Me chamo Marcos Vinicius, tenho 24 anos, sou graduando em Sistemas de Informação na Universidade Federal do Rio Grande (FURG) e formado em Técnico em Informática para Internet pelo Instituto Federal de Rio Grande. 💻
 
 
-- Possuo experiência em desenvolvimento web, em linguagens como JavaScript, PHP e Python, além de HTML e CSS. Atualmente, estou aprofundando meus conhecimentos nas áreas de Machine Learning, IA e Ciência de Dados, áreas que despertam grande interesse e nas quais busco contribuir. 🚀 🚀
+- Possuo experiência em desenvolvimento web, em linguagens como JavaScript, PHP e Python, incluindo Backend e uso de frameworks como Laravel, Node.js e React. Atualmente, estou aprofundando meus conhecimentos nas áreas de Machine Learning, IA e Ciência de Dados, áreas que despertam grande interesse e nas quais busco contribuir. 🚀
 
 <div>
 
