@@ -32,7 +32,7 @@ ________________________________________________________________________________
 </div>
 
 ### Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,react,nodejs,mysql,laravel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,py,fastapi,flutter,react,nodejs,laravel,postgres,git)](https://skillicons.dev)
 
 <div>
 
